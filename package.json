@@ -1,0 +1,26 @@
+{
+  "name": "enchannel-in-memory",
+  "version": "0.0.0",
+  "description": "In memory enchannel backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nteract/enchannel-in-memory.git"
+  },
+  "keywords": [
+    "enchannel",
+    "nteract",
+    "jupyter",
+    "kernel",
+    "in-memory"
+  ],
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/nteract/enchannel-in-memory/issues"
+  },
+  "homepage": "https://github.com/nteract/enchannel-in-memory#readme"
+}
